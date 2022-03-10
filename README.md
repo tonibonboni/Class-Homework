@@ -2,6 +2,13 @@
 ## 1. Добавете името си в "[Лист имена](https://github.com/TMG8047KG/task-for-the-class/blob/d82d3a40371dd13d773a09f6baf954754ed3b668/%D0%9B%D0%B8%D1%81%D1%82%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0.txt)"
 ## 2. Добавете ваш файл в отделен клон направен от вас в това Repo
 
+За да осъществите правилно задачата вие трябва първо да Fork-нете Repository-то от този бутон:
+![ree](https://github.com/TMG8047KG/task-for-the-class/blob/fac80464c9e5e08ecb6081c6a40721665c47365f/ree.png)
+
+След което ще ви даде да изберете къде да бъде Fork-нато, след като го изпълните отивате в Fork-натото ви Repo и работите там задачите си след което като сте готови ги 
+Pull request-вате за да бъдат Merge-нати тук. 
+
+Примери: До няколко минути!
 
 
-# [CLICK ME!](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FTMG8047KG)
+### [Последвайте ме в *GITHUB*](https://github.com/TMG8047KG/) :)
