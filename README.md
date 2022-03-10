@@ -1,4 +1,4 @@
-# Задача за часа
+# Домашно
 ## 1. Добавете името си в "[Лист имена](https://github.com/TMG8047KG/task-for-the-class/blob/36515e166023a8ab46a2b42a300bbe9a5cd78c9c/%D0%9B%D0%B8%D1%81%D1%82%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0.txt)"
 ## 2. Добавете ваш файл в папка [Files](/Files/) в отделен клон(branch) направен от вас
 
@@ -33,7 +33,7 @@
 ![край1](https://github.com/TMG8047KG/task-for-the-class/blob/d848c123f41e21f6353bcdad1abb3accdd4d2ed9/Images/%D0%BA%D1%80%D0%B0%D0%B91.png)
 ![край2](https://github.com/TMG8047KG/task-for-the-class/blob/d848c123f41e21f6353bcdad1abb3accdd4d2ed9/Images/%D0%BA%D1%80%D0%B0%D0%B92.png)
 
-Успех!
+## Успех!
 
 За помощ се пробвайте да направите issue или просто ми пишете.
 
