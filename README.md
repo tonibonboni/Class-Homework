@@ -32,6 +32,7 @@
 Накрая трябва pull request-овете ви трябва да подобяват тези двете(това се намира под заглавието на Pull request-a)
 
 ![край1](https://github.com/TMG8047KG/task-for-the-class/blob/d848c123f41e21f6353bcdad1abb3accdd4d2ed9/Images/%D0%BA%D1%80%D0%B0%D0%B91.png)
+
 ![край2](https://github.com/TMG8047KG/task-for-the-class/blob/d848c123f41e21f6353bcdad1abb3accdd4d2ed9/Images/%D0%BA%D1%80%D0%B0%D0%B92.png)
 
 ## Успех!
